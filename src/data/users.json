@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ayush Singh",
+    "email": "ayush@test.com",
+    "password": "password",
+    "role": "farmer",
+    "avatar": "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=150"
+  },
+  {
+    "id": 2,
+    "name": "Uttam Consumer",
+    "email": "uttam@test.com",
+    "password": "password",
+    "role": "consumer",
+    "avatar": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=150"
+  },
+  {
+    "id": 3,
+    "name": "Adarsh Owner",
+    "email": "adarsh@test.com",
+    "password": "password",
+    "role": "business",
+    "avatar": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=150"
+  },
+  {
+    "id": 4,
+    "name": "Kajal Coordinator",
+    "email": "kajal@test.com",
+    "password": "password",
+    "role": "coordinator",
+    "avatar": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=150"
+  },
+  {
+    "id": 5,
+    "name": "Prashant Admin",
+    "email": "prashant@test.com",
+    "password": "password",
+    "role": "admin",
+    "avatar": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=150"
+  }
+]

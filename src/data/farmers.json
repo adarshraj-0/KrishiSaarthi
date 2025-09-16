@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ramesh Kumar",
+    "location": "Punjab",
+    "organic": true,
+    "rating": 4.8,
+    "totalSales": 150000,
+    "avatar": "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "joinedDate": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Rishika Raj",
+    "location": "Varanasi",
+    "organic": false,
+    "rating": 4.6,
+    "totalSales": 98000,
+    "avatar": "https://images.pexels.com/photos/1674752/pexels-photo-1674752.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "joinedDate": "2023-03-20"
+  },
+  {
+    "id": 3,
+    "name": "Suresh Patel",
+    "location": "Gujarat",
+    "organic": true,
+    "rating": 4.9,
+    "totalSales": 200000,
+    "avatar": "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=150",
+    "joinedDate": "2022-11-10"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "farmerId": 1,
+    "crop": "Wheat",
+    "quantity": 500,
+    "price": 25,
+    "harvestDate": "2024-04-15",
+    "prebooked": 75,
+    "organic": true,
+    "image": "https://images.pexels.com/photos/265216/pexels-photo-265216.jpeg?auto=compress&cs=tinysrgb&w=300"
+  },
+  {
+    "id": 2,
+    "farmerId": 2,
+    "crop": "Rice",
+    "quantity": 800,
+    "price": 30,
+    "harvestDate": "2024-05-20",
+    "prebooked": 45,
+    "organic": false,
+    "image": "rice.jpg?auto=compress&cs=tinysrgb&w=300"
+  },
+  { 
+    "id": 3,
+    "farmerId": 3,
+    "crop": "Tomatoes",
+    "quantity": 300,
+    "price": 40,
+    "harvestDate": "2024-03-25",
+    "prebooked": 90,
+    "organic": true,
+    "image": "https://images.pexels.com/photos/533280/pexels-photo-533280.jpeg?auto=compress&cs=tinysrgb&w=300"
+  },
+  {
+    "id": 4,
+    "farmerId": 1,
+    "crop": "Potatoes",
+    "quantity": 600,
+    "price": 20,
+    "harvestDate": "2024-04-30",
+    "prebooked": 60,
+    "organic": true,
+    "image": "https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg?auto=compress&cs=tinysrgb&w=300"
+  }
+]
