@@ -141,7 +141,7 @@ const Login: React.FC = () => {
           <div style={{ fontSize: '14px', color: 'var(--text-light)' }}>
             <p><strong>Farmer:</strong> ayush@test.com / password</p>
             <p><strong>Consumer:</strong> uttam@test.com / password</p>
-            <p><strong>Business:</strong> adarsh@test.com / password</p>
+            <p><strong>Business:</strong> rishika@test.com / password</p>
             <p><strong>Coordinator:</strong> kajal@test.com / password</p>
             <p><strong>Admin:</strong> prashant@test.com / password</p>
           </div>
